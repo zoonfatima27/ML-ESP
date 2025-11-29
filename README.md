@@ -16,7 +16,7 @@ In this project, we aim to predict medical insurance charges using patient demog
 Medical insurance charges vary widely based on factors like age, BMI, smoking habits, and region. Accurately predicting these charges can help insurance companies price policies better and help individuals plan their finances.
 
 **Objectives:**  
-- Build models to predict insurance charges with high accuracy.  
+- Build models to predict medical charges with high accuracy.  
 - Compare classical machine learning models (Ridge, Lasso, ElasticNet) with a Neural Network.  
 - Identify the most influential features affecting insurance costs.  
 - Provide insights that can guide business decisions for insurance pricing.
