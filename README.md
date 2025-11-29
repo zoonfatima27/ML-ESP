@@ -9,7 +9,18 @@ Medical Expense Prediction
 We predict medical charges based on patient demographics and medical history. Classical ML models and a Neural Network were implemented, with proper preprocessing and hyperparameter tuning.
 
 ## Introduction
-Problem statement and objectives…
+
+In this project, we aim to predict medical insurance charges using patient demographics and medical history. Understanding the factors affecting insurance premiums is crucial for both healthcare providers and clients.
+
+**Problem Statement:**  
+Medical insurance charges vary widely based on factors like age, BMI, smoking habits, and region. Accurately predicting these charges can help insurance companies price policies better and help individuals plan their finances.
+
+**Objectives:**  
+- Build models to predict insurance charges with high accuracy.  
+- Compare classical machine learning models (Ridge, Lasso, ElasticNet) with a Neural Network.  
+- Identify the most influential features affecting insurance costs.  
+- Provide insights that can guide business decisions for insurance pricing.
+
 
 ## Dataset Description
 - Source: Kaggle (link)
@@ -47,3 +58,4 @@ Problem statement and objectives…
 ## References
 - [Kaggle Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance/data)
 - [YouTube Video](https://www.youtube.com/watch?v=3GCv4Qq5DZQ)
+
