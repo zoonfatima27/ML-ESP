@@ -55,11 +55,12 @@ Medical insurance charges vary widely based on factors like age, BMI, smoking ha
 ### Business Impact Analysis
 The most influential features affecting insurance charges are:
 
--Smoker status – largest effect on premium (higher risk)
+1.Smoker status – largest effect on premium (higher risk)
 
--Age – older clients tend to have higher charges
+2.Age – older clients tend to have higher charges
 
--BMI – overweight clients usually incur higher costs
+-3.BMI – overweight clients usually incur higher costs
+
 
 Note:
 
