@@ -49,6 +49,7 @@ Medical insurance charges vary widely based on factors like age, BMI, smoking ha
  ![Charges Histogram](plots/Scatter%20Plots%20RL.png)
  ![Charges Histogram](plots/Scatter%20plot%20NN%2CEN.png)
 - Feature importance (Ridge/Lasso/ElasticNet)
+  
  ![Charges Histogram](plots/Feature%20importance.png)
 
 ### Business Impact Analysis
