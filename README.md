@@ -3,15 +3,15 @@ Medical Expense Prediction
 # Medical Cost Prediction
 
 ## Team Members
-- Zoonash Fatima
-- CMS ID : 509056
+- Zoonash Fatima (CMS ID : 509056 )
+- Ayesha Akbar
 
 ## Abstract
-I predicted medical charges based on patient demographics and medical history. Classical ML models and a Neural Network were implemented, with proper preprocessing and hyperparameter tuning.
+We predicted medical charges based on patient demographics and medical history. Classical ML models and a Neural Network were implemented, with proper preprocessing and hyperparameter tuning.
 
 ## Introduction
 
-In this project, I aimed to predict medical insurance charges using patient demographics and medical history. Understanding the factors affecting insurance premiums is crucial for both healthcare providers and clients.
+In this project, We aimed to predict medical insurance charges using patient demographics and medical history. Understanding the factors affecting insurance premiums is crucial for both healthcare providers and clients.
 
 **Problem Statement:**  
 Medical insurance charges vary widely based on factors like age, BMI, smoking habits, and region. Accurately predicting these charges can help insurance companies price policies better and help individuals plan their finances.
