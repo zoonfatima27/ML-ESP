@@ -4,7 +4,7 @@ Medical Expense Prediction
 
 ## Team Members
 - Zoonash Fatima (CMS ID : 509056 )
-- Ayesha Akbar
+- Ayesha Akbar   (CMS ID : 515096 )
 
 ## Abstract
 We predicted medical charges based on patient demographics and medical history. Classical ML models and a Neural Network were implemented, with proper preprocessing and hyperparameter tuning.
