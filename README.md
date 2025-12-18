@@ -39,6 +39,14 @@ Medical insurance charges vary widely based on factors like age, BMI, smoking ha
 - Dropout regularization, early stopping
 
 ## Results & Analysis
+### Model Evaluation Metrics
+
+| Model | R² Score | RMSE | MAE |
+| :--- | :---: | :---: | :---: |
+| **Best Ridge** | 0.7617 | 5,863.28 | 4,254.39 |
+| **Best Lasso** | 0.7617 | 5,863.14 | 4,252.95 |
+| **Best ElasticNet** | 0.7617 | 5,863.58 | 4,261.88 |
+| **Neural Network** | **0.8463** | 16,718.08 | 12,485.09 |
 ### Performance Comparison
 ![Charges Histogram](plots/Model%20Performance%20Comparison%20.png)
 - See plots in `plots/` folder
