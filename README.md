@@ -36,7 +36,21 @@ Medical insurance charges vary widely based on factors like age, BMI, smoking ha
 
 ### Deep Learning
 - Neural Network implemented in PyTorch
-- Dropout regularization, early stopping
+## Neural Network Configuration
+
+To achieve the best predictive performance, a multi-layer perceptron (MLP) was designed with the following hyperparameters:
+
+| Parameter | Value |
+| :--- | :--- |
+| **Total Epochs** | 200 |
+| **Layer 1 (Input)** | 64 Neurons |
+| **Layer 2 (Hidden)** | 32 Neurons |
+| **Layer 3 (Output)** | 1 Neuron |
+| **Optimizer** | Adam |
+| **Regularization** | Dropout & Early Stopping |
+
+### Architecture Summary
+The model follows a funnel structure ($64 \rightarrow 32 \rightarrow 1$), allowing the network to compress high-dimensional patient data into a single medical charge prediction.
 
 ## Results & Analysis
 ### Model Evaluation Metrics
