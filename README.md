@@ -69,7 +69,6 @@ The model follows a funnel structure ($64 \rightarrow 32 \rightarrow 1$), allowi
 - Bar chart: R² scores comparison
 - Scatter plots: Predicted vs Actual
  ![Charges Histogram](plots/Scatter%20Plots%20RL.png)
- ![Charges Histogram](plots/Scatter%20plot%20NN%2CEN.png)
 - Feature importance (Ridge/Lasso/ElasticNet)
   
  ![Charges Histogram](plots/Feature%20importance.png)
